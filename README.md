@@ -3,4 +3,4 @@
 
 2.- INSTALL
 
-3.- MINE
+3.- MINE BYTCOIN
