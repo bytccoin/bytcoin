@@ -1,4 +1,4 @@
-## bytcoin👋
+## bytcoin🪙
 Tutorial - Automated installation and mine for blocks with Microsoft Windows Install and mine for blocks automatically with your Windows wallet.
 
 The tutorial is compatible with Windows 10 and above.
