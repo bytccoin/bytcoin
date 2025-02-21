@@ -3,7 +3,7 @@ Tutorial - Automated installation and mine for blocks with Microsoft Windows Ins
 
 The tutorial is compatible with Windows 10 and above.
 
-Click here to download the file fanzsy-auto.zip.
+Click here to download the file bytcoin-auto.zip.
 
 Open File Explorer and go to your downloads directory.
 
@@ -15,6 +15,6 @@ File unblock
 
 Press the button "OK".
 
-Extract the zip file fanzsy-auto.zip https://github.com/NERVOCAPITAL/FANZSY/releases/download/FANZSY/fanzsy-auto.zip
+Extract the zip file bytcoin-auto.zip
 
 Execute install.bat to automatically install your wallet and mine your first block.
